@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Console Studio</h1>
-<p align="center"><strong>Your console. Your next step.</strong></p>
+<p align="center"><strong>Console universal hacking Helper</strong></p>
 <p align="center">A desktop companion for exploring console homebrew and preparing supported USB and SD media.</p>
 <p align="center">Windows x64 · macOS Apple Silicon & Intel · English / Deutsch</p>
 
